@@ -1,0 +1,12 @@
+.InputFields {
+  display: flex;
+}
+
+.Wrapper{
+  display: grid;
+  grid-template-columns: repeat();
+}
+
+.Td {
+  display: table-row;
+}
